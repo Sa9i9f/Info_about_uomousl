@@ -1,0 +1,25 @@
+#
+
+
+.col{
+	background: rgb(75, 78, 76);
+	color: white;
+	font-family: 'Akronim';
+}
+#hh{
+	color: #252a90;
+}
+
+.bod{
+	background: rgb(75, 78, 76);
+	color: white;
+	font-family: 'Akronim';
+}
+.jumbotron{
+	
+	
+	background: url("https://www.hafryat.com/sites/default/files/%D9%85%D9%88%D8%B5%D9%84%20%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%20%281%29.jpg");
+	 background-repeat: no-repeat;
+  background-size: cover;
+}
+
